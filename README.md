@@ -3,13 +3,13 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p> I'm Basit, full-stack Dot Net Core Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" width="13"/> <b>India</b> with 2.5 years of professional work experience in developing robust, scalable web
-applications & backend systems, with a strong background in database management & web API development </p>
+<p> I'm Basit, Full-Stack Dot Net Core Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" width="13"/><b>India</b> with 2.5 years of professional work experience in developing robust, scalable web
+applications & backend systems, with a strong background in database management & web API development.</p>
 
 <h3>Things I code with</h3>
 <p>
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C#&logoColor=white" />
+  
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
 <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" />
