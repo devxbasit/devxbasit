@@ -3,7 +3,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p> I'm Basit, Full-Stack Dot Net Core Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" width="13"/><b> India</b> with 2.9 years of professional work experience in developing robust, scalable web
+<p> I'm Basit, Full-Stack Dot Net Core Developer with 2.9 years of professional work experience in developing robust, scalable web
 applications & backend systems, with a strong background in database management & web API development.</p>
 
 - 💬 Ask me about **C#, DotNetCore, SQL Server, Web API, JavaScript & Angular**.
