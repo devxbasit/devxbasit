@@ -1,16 +1,27 @@
-
-
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p> I'm Basit, Full-Stack Dot Net Core Developer with 2.9 years of professional work experience in developing robust, scalable web
+<p>I'm Basit, Full-Stack Dot Net Core Developer with 2.9 years of professional work experience in developing robust, scalable web
 applications & backend systems, with a strong background in database management & web API development.</p>
 
-- 💬 Ask me about **C#, DotNetCore, SQL Server, Web API, JavaScript & Angular**.
+- 💬 Ask me about **C#**, **.Net Core**, **SQL Server**, **Web API**, **JavaScript**, **TypeScript & Angular**.
 - 📫 How to reach me **devxbasit@gmail.com**.
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1mCtbzmnurDatcZ6fXalfQ3eutxcLOubM/view?usp=sharing).
 
-### Connect with me
+### My Tech Stack
+
+I mostly work with **C#**, **.Net Core**, **JavaScript**, **jQuery** & **SQL Server**. Recently, I have been tinkering with **Angular & Typescript**.
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#8065d8" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+</p>
+
+### Profile Links
 
 <p align="left">
 <a href="https://linkedin.com/in/devxbasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devxbasit" height="30" width="40" /></a>
@@ -19,32 +30,41 @@ applications & backend systems, with a strong background in database management 
 <a href="https://auth.geeksforgeeks.org/user/baatinx/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="baatinx/profile" height="30" width="40" /></a>
 </p>
 
-### My Tech Stack
-
-I mostly work with **C#**, **DotNetCore**, **JavaScript**, **jQuery** & **SQL Server**. Recently, I have been tinkering with **Angular & Typescript**.
-
+### Quick stats about me ⚡
 <p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-<img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+<!-- Profile Views -->
+  <a href="https://github.com/devxbasit/devxbasit">
+    <img src="https://komarev.com/ghpvc/?username=devxbasit&label=ProfileViews" alt="Profile_Views"/>
+  </a>
+<!-- GitHub Contributions Badge -->
+  <a href="https://github.com/devxbasit?tab=repositories">
+    <img src="https://badges.strrl.dev/contributions/all/devxbasit" alt="All_Contributions"/>
+  </a>
+<!-- GitHub Commits Badge -->
+  <a href="https://github.com/devxbasit?tab=repositories">
+    <img src="https://badges.strrl.dev/commits/all/devxbasit" alt="All_Commits"/>
+  </a>
+<!-- GitHub Issues and PRs Badge -->
+  <a href="https://github.com/devxbasit?tab=repositories">
+    <img src="https://badges.strrl.dev/issues-and-prs/all/devxbasit" alt="All_Issues_And_PRs"/>
+  </a>
+<!-- GitHub Membership Years Badge -->
+  <a href="https://github.com/devxbasit/devxbasit">
+    <img src="https://badges.strrl.dev/years/devxbasit" alt="Years" />
+  </a>
+<!-- Stackoverflow badge -->
+  <a href="https://stackoverflow.com/users/16456741/">
+    <img src="https://stackoverflow-badge.vercel.app/?userID=16456741" style="border-bottom:1px solid gray" alt="StackOverflow"/>
+  </a>
 </p>
-
-### ⚡ Quick stats about me ⚡
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devxbasit&label=Profile%20views&color=0e75b6&style=flat" alt="devxbasit" /> </p>
 
 <p align=center>
   <div align=center>
     <a href="https://github.com/devxbasit/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=devxbasit&theme=react&border=61dafb&hide_border=true" alt="devxbasit" />
+      <img align="left" width=450 src="https://streak-stats.demolab.com/?user=devxbasit&theme=react&border=61dafb&hide_border=true" alt="devxbasit" />
     </a>
     <a href="https://github.com/devxbasit/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
