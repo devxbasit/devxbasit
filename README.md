@@ -6,20 +6,9 @@
 <p> I'm Basit, Full-Stack Dot Net Core Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" width="13"/><b> India</b> with 2.9 years of professional work experience in developing robust, scalable web
 applications & backend systems, with a strong background in database management & web API development.</p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devxbasit&label=Profile%20views&color=0e75b6&style=flat" alt="devxbasit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devxbasit" alt="devxbasit" /></a> </p>
-
-- 💬 Ask me about **C#, DotNetCore, SQL Server, Web API, JavaScript & Angular**
-
-- 📫 How to reach me **devxbasit@gmail.com**
-
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1mCtbzmnurDatcZ6fXalfQ3eutxcLOubM/view?usp=sharing)
-
-
-
-
+- 💬 Ask me about **C#, DotNetCore, SQL Server, Web API, JavaScript & Angular**.
+- 📫 How to reach me **devxbasit@gmail.com**.
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1mCtbzmnurDatcZ6fXalfQ3eutxcLOubM/view?usp=sharing).
 
 ### Connect with me
 
@@ -46,8 +35,9 @@ I mostly work with **C#**, **DotNetCore**, **JavaScript**, **jQuery** & **SQL Se
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 </p>
 
-<h2 align="center">⚡ Quick stats about me ⚡</h2>
-<br>
+### ⚡ Quick stats about me ⚡
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devxbasit&label=Profile%20views&color=0e75b6&style=flat" alt="devxbasit" /> </p>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/devxbasit/github-readme-streak-stats" title="Go to Source">
@@ -65,5 +55,9 @@ I mostly work with **C#**, **DotNetCore**, **JavaScript**, **jQuery** & **SQL Se
   </div>
   <br>
 </p>
+
+
+
+
 
 
