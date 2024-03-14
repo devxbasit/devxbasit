@@ -3,10 +3,13 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p> I'm Basit, Full-Stack Dot Net Core Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" width="13"/><b> India</b> with 2.5 years of professional work experience in developing robust, scalable web
+<p> I'm Basit, Full-Stack Dot Net Core Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" width="13"/><b> India</b> with 2.9 years of professional work experience in developing robust, scalable web
 applications & backend systems, with a strong background in database management & web API development.</p>
 
-<h3>Things I code with</h3>
+### Tech Stack
+
+I mostly work with **C#**, **DotNetCore**, **JavaScript**, **jQuery** & **SQL Server**. Recently, I have been tinkering with **Angular & Typescript**.
+
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
@@ -20,6 +23,28 @@ applications & backend systems, with a strong background in database management 
 </p>
 
 ### Quick stats about me
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/devxbasit/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=devxbasit&theme=react&border=61dafb&hide_border=true" alt="devxbasit" />
+    </a>
+    <a href="https://github.com/devxbasit/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/devxbasit/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+</p>
+
+<hr>
 
 
 <p align="center">
@@ -475,7 +500,7 @@ You can use the website to generate badges: https://shields.io/
 **Languages and Tools:** 
 
 <!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+You can use this api: https://github.com/devxbasit/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
@@ -581,34 +606,9 @@ I created these images, feel free to use them.
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=devxbasit&theme=react&border=61dafb&hide_border=true" alt="devxbasit" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxbasit&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
 
 -----------------
-### Tech Stack
-
-I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
