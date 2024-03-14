@@ -27,7 +27,7 @@ I mostly work with **C#**, **.Net Core**, **JavaScript**, **jQuery** & **SQL Ser
 <a target="_blank" href="https://linkedin.com/in/devxbasit"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devxbasit" height="30" width="40" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/16456741"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16456741" height="30" width="40" /></a>
 <a target="_blank" href="https://www.leetcode.com/devxbasit"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devxbasit" height="30" width="40" /></a>
-<a target="_blank" href="https://auth.geeksforgeeks.org/user/baatinx/profile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="baatinx/profile" height="30" width="40" /></a>
+<a target="_blank" href="https://auth.geeksforgeeks.org/user/baatinx/practice/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="baatinx/profile" height="30" width="40" /></a>
 </p>
 
 ### Quick stats about me ⚡
