@@ -5,7 +5,7 @@ applications & backend systems, with a strong background in database management 
 
 - 💬 Ask me about **C#**, **.Net Core**, **SQL Server**, **Web API**, **JavaScript**, **TypeScript & Angular**.
 - 📫 How to reach me **devxbasit@gmail.com**.
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1mCtbzmnurDatcZ6fXalfQ3eutxcLOubM/view?usp=sharing).
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1a4l7aCZzk0dE83wmvvd2C4o8-OgH_2Tl/view?usp=sharing).
 
 ### My Tech Stack
 
