@@ -1,15 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Basit, Full-Stack Dot Net Core Developer with 2.9 years of professional work experience in developing robust, scalable web
+<p>I'm Basit, full-stack Dot Net Core Developer with 2.9 years of professional work experience in developing robust, scalable web
 applications & backend systems, with a strong background in database management & web API development.</p>
 
-- 💬 Ask me about **C#**, **.Net Core**, **SQL Server**, **Web API**, **JavaScript**, **TypeScript & Angular**.
+- 💬 Ask me about **.Net Core**, **C#**, **Web API**, **MS SQL Server**, **JavaScript**, **TypeScript & Angular**.
 - 📫 How to reach me **devxbasit@gmail.com**.
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1a4l7aCZzk0dE83wmvvd2C4o8-OgH_2Tl/view?usp=sharing).
 
 ### My Tech Stack
 
-I mostly work with **C#**, **.Net Core**, **JavaScript**, **jQuery** & **SQL Server**. Recently, I have been tinkering with **Angular & Typescript**.
+I mostly work with **C#**, **.Net Core**, **JavaScript**, **jQuery** & **MS SQL Server**. Recently, I have been tinkering with **Angular & Typescript**.
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#8065d8" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
