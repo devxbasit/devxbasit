@@ -70,7 +70,7 @@ I mostly work with **C#**, **.Net Core**, **JavaScript**, **jQuery** & **MS SQL 
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a target="_blank" href="https://github.com/devxbasit/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c++,hack&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c++,hack&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=pie&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
