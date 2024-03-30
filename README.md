@@ -5,7 +5,7 @@ applications & backend systems, with a strong background in database management 
 
 - 💬 Ask me about **.Net Core**, **C#**, **Web API**, **MS SQL Server**, **JavaScript**, **TypeScript & Angular**.
 - 📫 How to reach me **basitshafi.dev@gmail.com**.
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1a4l7aCZzk0dE83wmvvd2C4o8-OgH_2Tl/view?usp=drive_link).
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1F0g_TvYRPpLautL4IMjL36fFdt6L1ajN/view).
 
 ### My Tech Stack
 
