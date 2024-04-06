@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Basit, a full-stack Dot Net Core Developer with 2.9 years of professional work experience in developing robust, scalable web
+<p>I'm Basit, a full-stack .Net Core Developer with 2.9 years of professional work experience in developing robust, scalable web
 applications & backend systems, with a strong background in database management & web API development.</p>
 
 - 💬 Ask me about **.Net Core**, **C#**, **Web API**, **MS SQL Server**, **JavaScript**, **TypeScript & Angular**.
