@@ -11,13 +11,13 @@ I'm Basit, a full-stack **.Net Core** & **Angular** developer with 2.9 years of 
 I mostly work with **.Net Core, Angular, C#, MS SQL Server, Web APIs, JavaScript, TypeScript, RxJs, jQuery, CSS, Bootstrap.**
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#8065d8" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 </p>
 
 ### Profile Links
@@ -31,30 +31,12 @@ I mostly work with **.Net Core, Angular, C#, MS SQL Server, Web APIs, JavaScript
 
 ### Quick stats about me ⚡
 <p>
-<!-- Profile Views -->
-  <a target="_blank" href="https://github.com/devxbasit/devxbasit">
-    <img src="https://komarev.com/ghpvc/?username=devxbasit&label=ProfileViews" alt="Profile_Views"/>
-  </a>
-<!-- GitHub Contributions Badge -->
-  <a target="_blank" href="https://github.com/devxbasit?tab=repositories">
-    <img src="https://badges.strrl.dev/contributions/all/devxbasit" alt="All_Contributions"/>
-  </a>
-<!-- GitHub Commits Badge -->
-  <a target="_blank" href="https://github.com/devxbasit?tab=repositories">
-    <img src="https://badges.strrl.dev/commits/all/devxbasit" alt="All_Commits"/>
-  </a>
-<!-- GitHub Issues and PRs Badge -->
-  <a target="_blank" href="https://github.com/devxbasit?tab=repositories">
-    <img src="https://badges.strrl.dev/issues-and-prs/all/devxbasit" alt="All_Issues_And_PRs"/>
-  </a>
-<!-- GitHub Membership Years Badge -->
-  <a target="_blank" href="https://github.com/devxbasit/devxbasit">
-    <img src="https://badges.strrl.dev/years/devxbasit" alt="Years" />
-  </a>
-<!-- Stackoverflow badge -->
-  <a target="_blank" href="https://stackoverflow.com/users/16456741/">
-    <img src="https://stackoverflow-badge.vercel.app/?userID=16456741" style="border-bottom:1px solid gray" alt="StackOverflow"/>
-  </a>
+  <a target="_blank" href="https://stackoverflow.com/users/16456741/"><img src="https://stackoverflow-badge.vercel.app/?userID=16456741" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
+  <a target="_blank" href="https://github.com/devxbasit/devxbasit"><img src="https://komarev.com/ghpvc/?username=devxbasit&label=ProfileViews" alt="Profile_Views"/></a>
+  <a target="_blank" href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/devxbasit" alt="All_Contributions"/></a>
+  <a target="_blank" href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/commits/all/devxbasit" alt="All_Commits"/></a>
+  <a target="_blank" href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/devxbasit" alt="All_Issues_And_PRs"/></a>
+  <a target="_blank" href="https://github.com/devxbasit/devxbasit"><img src="https://badges.strrl.dev/years/devxbasit" alt="Years" /></a>
 </p>
 
 <p align=center>
