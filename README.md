@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Basit, a full-stack **.Net Core** & **Angular** developer with 2.9 years of professional work experience in developing **robust & scalable frontend & backend systems**, with a strong background in database management & web API development.</p>
+I'm Basit, a full-stack **.Net Core** & **Angular** developer with 2.9 years of professional work experience in developing **robust & scalable frontend & backend systems**, with a strong background in database management & web API development.
 
 - 💬 Ask me about **.Net Core, Angular, C#, Web APIs, JavaScript & TypeScript**
 - 📫 How to reach me **basitshafi.dev@gmail.com**.
