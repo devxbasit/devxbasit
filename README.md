@@ -4,7 +4,7 @@ I'm Basit, a full-stack **.Net Core** & **Angular** developer with 2.9 years of 
 
 - 💬 Ask me about **.Net Core, Angular, C#, Web APIs, JavaScript & TypeScript**
 - 📫 How to reach me **basitshafi.dev@gmail.com**.
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1F0g_TvYRPpLautL4IMjL36fFdt6L1ajN/view).
+<!-- - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1F0g_TvYRPpLautL4IMjL36fFdt6L1ajNN/view). -->
 
 ### My Tech Stack
 
