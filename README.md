@@ -29,7 +29,8 @@ I mostly work with **.Net Core, Angular, C#, MS SQL Server, Web APIs, JavaScript
 <a target="_blank" href="https://auth.geeksforgeeks.org/user/baatinx/practice/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="baatinx/profile" height="30" width="40" /></a>
 </p>
 
-### Quick stats about me ⚡
+### Quick stats about me 🔥
+
 <p>
   <a target="_blank" href="https://stackoverflow.com/users/16456741/"><img src="https://stackoverflow-badge.vercel.app/?userID=16456741" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
   <a target="_blank" href="https://github.com/devxbasit/devxbasit"><img src="https://komarev.com/ghpvc/?username=devxbasit&label=ProfileViews" alt="Profile_Views"/></a>
@@ -39,21 +40,15 @@ I mostly work with **.Net Core, Angular, C#, MS SQL Server, Web APIs, JavaScript
   <a target="_blank" href="https://github.com/devxbasit/devxbasit"><img src="https://badges.strrl.dev/years/devxbasit" alt="Years" /></a>
 </p>
 
-<p align=center>
-  <div align=center>
-    <a target="_blank" href="https://github.com/devxbasit/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=devxbasit&theme=react&border=61dafb&hide_border=true" alt="devxbasit" />
-    </a>
-    <a target="_blank" href="https://github.com/devxbasit/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+<div>
+  <a target="_blank" href="https://github.com/devxbasit/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width=300 src="https://streak-stats.demolab.com/?user=devxbasit&theme=react&border=61dafb&hide_border=true" alt="devxbasit" />
+  </a>
+  <a target="_blank" href="https://github.com/devxbasit/github-readme-stats" title="Go to Source">
+    <img align="left" width=300 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
     <a target="_blank" href="https://github.com/devxbasit/github-readme-stats">
-      <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c++,hack&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=pie&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" /> --!>
-      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c%2B%2B,hack&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-</p>
+    <img align="left" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c%2B%2B,hack&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+</div>
+
