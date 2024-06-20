@@ -8,7 +8,7 @@ I'm Basit, **Solution-oriented** full-stack **.Net Core & Angular** developer wi
 
 ### My Tech Stack
 
-I mostly work with **.Net Core, C#, Angular, Web APIs, Microservices, RabbitMQ, MS SQL Server, LINQ, RxJs, JavaScript, TypeScript, jQuery, Bootstrap, Tailwind CSS**
+I mostly work with **Full Stack Developer | .NET Core | Angular | SQL Server | Microservices | Web API's | RabbitMQ | C# | LINQ | EF Core | JavaScript | TypeScript | RxJs | jQuery | Bootstrap**
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#8065d8" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
