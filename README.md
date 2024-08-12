@@ -46,7 +46,7 @@ I mostly work with **.NET Core** | **Angular** | **SQL Server** | **Microservice
     <img align="left" width=300 src="https://streak-stats.demolab.com/?user=devxbasit&theme=react&border=61dafb&hide_border=true" alt="devxbasit" />
   </a>
   <a target="_blank" href="https://github.com/devxbasit/github-readme-stats" title="Go to Source">
-    <img align="left" width=300 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width=300 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
     <a target="_blank" href="https://github.com/devxbasit/github-readme-stats">
     <img align="left" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c%2B%2B,hack&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
