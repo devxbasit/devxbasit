@@ -1,5 +1,5 @@
  <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> -->
-<h1>Hey! 🧐 Nice to see you.</h1>
+<h1>Hey! 👋 Nice to see you.</h1>
 
 I'm Basit, **Solution-oriented** full-stack **.Net Core & Angular** developer with 2.9 years of experience in developing robust & scalable **frontend & backend systems**, with a strong background in **database management & web API development**. Interested in **solving challenging tasks** & learning new technologies
 
