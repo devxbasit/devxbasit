@@ -4,7 +4,7 @@
 I'm Basit, **Solution-oriented** full-stack **.Net Core & Angular** developer with 2.9 years of experience in developing robust & scalable **frontend & backend systems**, with a strong background in **database management & web API development**. Interested in **solving challenging tasks** & learning new technologies
 
 - 💬 Ask me about **.Net Core, Angular, Web APIs, Microservices, MS SQL Server**
-- 📫 How to reach me **basitshafi.dev@gmail.com**.
+- 📫 How to reach me **[devxbasit.surge.sh/contact](https://devxbasit.surge.sh/contact)**
 <!-- - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1F0g_TvYRPpLautL4IMjL36fFdt6L1ajNN/view). -->
 
 ### My Tech Stack
