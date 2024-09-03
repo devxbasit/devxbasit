@@ -26,7 +26,7 @@ I'm Basit, a <strong>solution-oriented</strong> full-stack .NET Core & Angular d
 I am passionate about creating seamless user experiences & <strong>delivering high-quality software solutions</strong> that meet business needs. My approach combines technical proficiency <strong>with a keen eye for detail,</strong> ensuring that every task I undertake is both functional & visually appealing.
 <br />
 <br />
-<strong>Software engineering is in my blood,</strong> & I'm always eager to learn, grow & <strong>improve my skills.</strong> If you have any questions or would like to discuss anything, feel free to <a href="https://devxbasit.surge.sh/contact">reach out to me.</a>
+I'm always eager to learn, grow & <strong>improve my skills.</strong> If you have any questions or would like to discuss anything, feel free to <a href="https://devxbasit.surge.sh/contact">reach out to me.</a>
 </p>
 <p>
  <a href="https://linkedin.com/in/devxbasit" title="LinkedIn">
