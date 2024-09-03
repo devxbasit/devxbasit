@@ -109,9 +109,9 @@ I am passionate about creating seamless user experiences & <strong>delivering hi
 <a href="https://github.com/devxbasit/devxbasit"><img src="https://badges.strrl.dev/years/devxbasit" alt="Years" /></a>
 </p>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=devxbasit&theme=react"/>
-<img src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+<div align="left">
+<img width="500" src="https://streak-stats.demolab.com/?user=devxbasit&theme=react"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxbasit&theme=react" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c%2B%2B&theme=react" />
 </div>
