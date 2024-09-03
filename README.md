@@ -1,36 +1,105 @@
- <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> -->
-<h1>Hey! 👋 Nice to see you.</h1>
 
-I'm Basit, a solution-oriented full-stack **.Net Core & Angular** developer with 2.9 years of experience in developing robust & scalable **frontend & backend systems**, with a strong background in **database management & web API development**. Interested in **solving challenging tasks** & learning new technologies
-
-- 💬 Ask me about **.Net Core, Angular, Web APIs, Microservices, MS SQL Server**
-- 📫 Visit my website to know more about me **[devxbasit.surge.sh](https://devxbasit.surge.sh)**
-
-### My Tech Stack
-**.NET Core** | **Angular** | **SQL Server** | **Microservices** | **Web APIs** | **RabbitMQ** | **SignalR** | **OOPS** | **C#** | **LINQ** | **EF Core** | **NgRx** | **RxJs** | **JavaScript** | **TypeScript** | **Tailwind CSS** | **jQuery** | **Bootstrap** | **Firebase**
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!--                                                     About me -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<div align="center">
+<h1 align="center">Hey there! 👋 Nice to see you</h1>
+<a href="https://devxbasit.surge.sh">Visit my website to know more about me</a>
+<br />
+<br />
+</div>
 
 <p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#8065d8" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+I'm Basit, a <strong>solution-oriented</strong> full-stack .NET Core & Angular developer with 2.9 years of experience in developing <strong>robust & scalable frontend & backend systems</strong>, with a strong background in <strong>database management & web API development.</strong>
+<br />
+<br />
+I am passionate about creating seamless user experiences & <strong>delivering high-quality software solutions</strong> that meet business needs. My approach combines technical proficiency <strong>with a keen eye for detail,</strong> ensuring that every task I undertake is both functional & visually appealing.
+<br />
+<br />
+<strong>Software engineering is in my blood,</strong> & I'm always eager to learn, grow & <strong>improve my skills.</strong> If you have any questions or would like to discuss anything, feel free to <a href="https://devxbasit.surge.sh/contact">reach out to me.</a>
+</p>
+<p>
+ <a href="https://linkedin.com/in/devxbasit" title="LinkedIn">
+  <img src="https://img.icons8.com/color/64/linkedin.png" alt="LinkedIn"/>
+ </a>
+ <a href="mailto:basitshafi.dev@gmail.com" title="Mail to basitshafi.dev@gmail.com">
+  <img src="https://img.icons8.com/arcade/64/send.png" />
+ </a>
+	</a>
+ <a href="https://devxbasit.surge.sh" title="Visit my website">
+  <img src="https://img.icons8.com/clouds/64/domain.png" />
+ </a>
 </p>
 
-### Profile Links
 
-<p align="left">
-<a target="_blank" href="https://linkedin.com/in/devxbasit"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devxbasit" height="30" width="40" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/16456741"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16456741" height="30" width="40" /></a>
-<a target="_blank" href="https://www.leetcode.com/devxbasit"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devxbasit" height="30" width="40" /></a>
-<a target="_blank" href="https://auth.geeksforgeeks.org/user/baatinx/practice/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="baatinx/profile" height="30" width="40" /></a>
+
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!--                                                     Skills -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<br />
+<br />
+<h1 align="center"><strong>Technologies & Skills</strong></h1>
+<p align="center"> 
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular"  />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MS SQL Server" title="MS SQL Server" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" alt="NgRx" title="NgRx" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJs" title="RxJs" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS 3" title="CSS 3" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDb" title="MongoDB" />
 </p>
 
-### Quick stats about me 🔥
 
+<p><strong>Core Backend Skills:</strong><br/>Problem-Solving, Data Structures & Algorithms, .Net Core, MS SQL Server, C#, Web APIs, Microservices, ASP.NET MVC, RabbitMQ, SignalR, RESTful APIs, OOPS, LINQ, EF Core, Firebase, MongoDB</p>
+<p><strong>Core Frontend Skills:</strong><br/>Angular, NgRx, RxJs, Tailwind CSS, JavaScript, TypeScript, Bootstrap, jQuery, HTML 5, CSS 3</p>
+
+
+
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!--                                                     Stats About Me -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+
+<br />
+<br />
+<h1 align="center"><strong>Quick stats about me 🔥</strong></h1>
 <p>
   <a target="_blank" href="https://stackoverflow.com/users/16456741/"><img src="https://stackoverflow-badge.vercel.app/?userID=16456741" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
   <a target="_blank" href="https://github.com/devxbasit/devxbasit"><img src="https://komarev.com/ghpvc/?username=devxbasit&label=ProfileViews" alt="Profile_Views"/></a>
