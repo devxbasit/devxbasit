@@ -89,7 +89,7 @@ I am passionate about creating seamless user experiences & <strong>delivering hi
 <!-- -->
 <!-- -->
 <!-- -->
-<!--                                                     Stats About Me -->
+<!--                                                     Stats -->
 <!-- -->
 <!-- -->
 <!-- -->
@@ -99,7 +99,7 @@ I am passionate about creating seamless user experiences & <strong>delivering hi
 
 <br />
 <br />
-<h1 align="center"><strong>Quick stats about me 🔥</strong></h1>
+<h1 align="center"><strong>Stats</strong></h1>
 <p>
 <a href="https://stackoverflow.com/users/16456741/"><img src="https://stackoverflow-badge.vercel.app/?userID=16456741" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 <a href="https://github.com/devxbasit/devxbasit"><img src="https://komarev.com/ghpvc/?username=devxbasit&label=ProfileViews" alt="Profile_Views"/></a>
