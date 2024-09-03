@@ -101,23 +101,18 @@ I am passionate about creating seamless user experiences & <strong>delivering hi
 <br />
 <h1 align="center"><strong>Quick stats about me 🔥</strong></h1>
 <p>
-  <a target="_blank" href="https://stackoverflow.com/users/16456741/"><img src="https://stackoverflow-badge.vercel.app/?userID=16456741" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
-  <a target="_blank" href="https://github.com/devxbasit/devxbasit"><img src="https://komarev.com/ghpvc/?username=devxbasit&label=ProfileViews" alt="Profile_Views"/></a>
-  <a target="_blank" href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/devxbasit" alt="All_Contributions"/></a>
-  <a target="_blank" href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/commits/all/devxbasit" alt="All_Commits"/></a>
-  <a target="_blank" href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/devxbasit" alt="All_Issues_And_PRs"/></a>
-  <a target="_blank" href="https://github.com/devxbasit/devxbasit"><img src="https://badges.strrl.dev/years/devxbasit" alt="Years" /></a>
+<a href="https://stackoverflow.com/users/16456741/"><img src="https://stackoverflow-badge.vercel.app/?userID=16456741" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
+<a href="https://github.com/devxbasit/devxbasit"><img src="https://komarev.com/ghpvc/?username=devxbasit&label=ProfileViews" alt="Profile_Views"/></a>
+<a href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/devxbasit" alt="All_Contributions"/></a>
+<a href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/commits/all/devxbasit" alt="All_Commits"/></a>
+<a href="https://github.com/devxbasit?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/devxbasit" alt="All_Issues_And_PRs"/></a>
+<a href="https://github.com/devxbasit/devxbasit"><img src="https://badges.strrl.dev/years/devxbasit" alt="Years" /></a>
 </p>
 
 <div>
-  <a target="_blank" href="https://github.com/devxbasit/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width=300 src="https://streak-stats.demolab.com/?user=devxbasit&theme=react&border=61dafb&hide_border=true" alt="devxbasit" />
-  </a>
-  <a target="_blank" href="https://github.com/devxbasit/github-readme-stats" title="Go to Source">
-    <img align="left" width=300 src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-    <a target="_blank" href="https://github.com/devxbasit/github-readme-stats">
-    <img align="left" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c%2B%2B,hack&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </a>
+<img align="left" src="https://streak-stats.demolab.com/?user=devxbasit&theme=react"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=devxbasit&theme=react" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c%2B%2B&theme=react" />
 </div>
 
