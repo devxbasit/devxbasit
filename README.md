@@ -1,15 +1,14 @@
  <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> -->
 <h1>Hey! 👋 Nice to see you.</h1>
 
-I'm Basit, **Solution-oriented** full-stack **.Net Core & Angular** developer with 2.9 years of experience in developing robust & scalable **frontend & backend systems**, with a strong background in **database management & web API development**. Interested in **solving challenging tasks** & learning new technologies
+I'm Basit, a solution-oriented full-stack **.Net Core & Angular** developer with 2.9 years of experience in developing robust & scalable **frontend & backend systems**, with a strong background in **database management & web API development**. Interested in **solving challenging tasks** & learning new technologies
 
 - 💬 Ask me about **.Net Core, Angular, Web APIs, Microservices, MS SQL Server**
-- 📫 How to reach me **[devxbasit.surge.sh/contact](https://devxbasit.surge.sh/contact)**
-<!-- - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1F0g_TvYRPpLautL4IMjL36fFdt6L1ajNN/view). -->
+- 📫 Visit my website to know more about me **[devxbasit.surge.sh](https://devxbasit.surge.sh)**
 
 ### My Tech Stack
+**.NET Core** | **Angular** | **SQL Server** | **Microservices** | **Web APIs** | **RabbitMQ** | **SignalR** | **OOPS** | **C#** | **LINQ** | **EF Core** | **NgRx** | **RxJs** | **JavaScript** | **TypeScript** | **Tailwind CSS** | **jQuery** | **Bootstrap** | **Firebase**
 
-I mostly work with **.NET Core** | **Angular** | **NgRx**| **SQL Server** | **Microservices** | **Web APIs** | **RabbitMQ** | **SignalR** | **RxJs** | **C#** | **LINQ** | **EF Core** | **JavaScript** | **TypeScript** | **Tailwind CSS** | **jQuery** | **AJAX** | **Bootstrap**
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#8065d8" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
