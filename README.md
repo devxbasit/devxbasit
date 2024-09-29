@@ -113,7 +113,7 @@ I'm always eager to learn, grow & <strong>improve my skills.</strong> If you hav
 <div align="left">
 <img width="420" src="https://streak-stats.demolab.com/?user=devxbasit&theme=react"/>
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=devxbasit&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devxbasit&theme=react" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxbasit&theme=react" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c%2B%2B&theme=react" />
 </div>
 
