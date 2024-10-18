@@ -21,7 +21,7 @@
 </div>
 
 <p>
-I'm Basit, a <strong>solution-oriented</strong> full-stack .NET Core & Angular developer with 2.9 years of experience in developing <strong>robust & scalable frontend & backend systems</strong>, with a strong background in <strong>database management & web API development.</strong>
+I'm Basit, a <strong>solution-oriented</strong> full-stack .NET Core & Angular developer with 3 years of experience in developing <strong>robust & scalable frontend & backend systems</strong>, with a strong background in <strong>database management & web API development.</strong>
 <br />
 <br />
 I am passionate about creating seamless user experiences & <strong>delivering high-quality software solutions</strong> that meet business needs. My approach combines technical proficiency <strong>with a keen eye for detail,</strong> ensuring that every task I undertake is both functional & visually appealing.
@@ -41,8 +41,6 @@ I'm always eager to learn, grow & <strong>improve my skills.</strong> If you hav
   <img src="https://img.icons8.com/clouds/64/domain.png" />
  </a>
 </p>
-
-
 
 <!-- -->
 <!-- -->
@@ -78,11 +76,8 @@ I'm always eager to learn, grow & <strong>improve my skills.</strong> If you hav
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDb" title="MongoDB" />
 </p>
 
-
 <p><strong>Core Backend Skills:</strong><br/>Problem-Solving, Data Structures & Algorithms, .Net Core, MS SQL Server, C#, Web APIs, Microservices, ASP.NET MVC, RabbitMQ, SignalR, RESTful APIs, OOPS, LINQ, EF Core, Firebase, MongoDB</p>
 <p><strong>Core Frontend Skills:</strong><br/>Angular, NgRx, RxJs, Tailwind CSS, JavaScript, TypeScript, Bootstrap, jQuery, HTML 5, CSS 3</p>
-
-
 
 <!-- -->
 <!-- -->
@@ -116,4 +111,3 @@ I'm always eager to learn, grow & <strong>improve my skills.</strong> If you hav
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxbasit&theme=react" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxbasit&hide=php,java,scss,html,css,clojure,c%2B%2B&theme=react" />
 </div>
-
