@@ -1,4 +1,4 @@
-[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://alkhidmat.org/donate)
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://crisisrelief.un.org/opt-crisis)
 
 <!-- -->
 <!-- -->
