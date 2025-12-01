@@ -61,10 +61,12 @@ I'm always eager to learn, grow & <strong>improve my skills.</strong> If you hav
 <p align="center"> 
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular"  />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React"  />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MS SQL Server" title="MS SQL Server" />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" alt="NgRx" title="NgRx" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" title="Redux"  />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJs" title="RxJs" />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
@@ -77,7 +79,7 @@ I'm always eager to learn, grow & <strong>improve my skills.</strong> If you hav
 </p>
 
 <p><strong>Core Backend Skills:</strong><br/>Problem-Solving, Data Structures & Algorithms, .Net Core, MS SQL Server, C#, Web APIs, Microservices, ASP.NET MVC, RabbitMQ, SignalR, RESTful APIs, OOPS, LINQ, EF Core, Firebase, MongoDB</p>
-<p><strong>Core Frontend Skills:</strong><br/>Angular, NgRx, RxJs, Tailwind CSS, JavaScript, TypeScript, Bootstrap, jQuery, HTML 5, CSS 3</p>
+<p><strong>Core Frontend Skills:</strong><br/>Angular, React, NgRx, Redux, RxJs, Tailwind CSS, JavaScript, TypeScript, Bootstrap, jQuery, HTML 5, CSS 3</p>
 
 <!-- -->
 <!-- -->
